@@ -1,0 +1,1 @@
+# FinScope AI - Data Package
